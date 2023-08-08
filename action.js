@@ -12,8 +12,8 @@ const randomVariable1 = Math.floor(Math.random() * 6) + 1;
 const randomVariable2 = Math.floor(Math.random() * 6) + 1;
 
 // changing the dice number based on the random number generated(1-6)
-player1Dice.setAttribute("src", `/images/dice${randomVariable1}.png`);
-player2Dice.setAttribute("src", `/images/dice${randomVariable2}.png`);
+player1Dice.setAttribute("src", `images/dice${randomVariable1}.png`);
+player2Dice.setAttribute("src", `images/dice${randomVariable2}.png`);
 
 // to display the result 
 if(randomVariable1 === randomVariable2) {
