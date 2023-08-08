@@ -26,5 +26,3 @@ Welcome to Rolling Rivals, an exciting dice game where participant gets a dice t
 Start playing Rolling Rivals and see who reigns supreme in this thrilling two-player dice showdown!
 
 Feel free to contribute to the project by adding new features, improving the user interface, or enhancing the overall gameplay. Let's roll and have some fun!
-
-![Rolling Rivals]
